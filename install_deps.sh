@@ -1,0 +1,2 @@
+npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-preact eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks html-webpack-plugin prettier terser-webpack-plugin ts-loader typescript webpack
+npm i -S react react-dom

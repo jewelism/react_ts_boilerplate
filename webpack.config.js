@@ -33,11 +33,10 @@ module.exports = {
   ],
   devServer: {
     // contentBase: __dirname + "/dist",
-    inline: true,
     hot: true,
     host: '0.0.0.0',
-    disableHostCheck: true,
     port: 8080,
+    allowedHosts: 'all',
     // proxy: {
     //   '/API': {
     //     target: 'http://',
